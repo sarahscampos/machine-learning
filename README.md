@@ -1,4 +1,3 @@
-# machine-learning
-## Exercícios de Machine Learning
+# Machine Learning: Exercícios
 
-### __ClassificaçãoPigDog__: projeto supervisionado que preve se uma classe é um porco ou cachorro de acordo com as características (features) fornecidas. Ao final, informa a taxa de acerto.
+**ClassificaçãoPigDog**:<p>Projeto supervisionado que preve se uma classe é um porco ou cachorro de acordo com as características (features) fornecidas. Ao final, informa a taxa de acerto.</p>
